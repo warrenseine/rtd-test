@@ -4,6 +4,12 @@ Kuyruk: A distributed task runner
 Welcome to Kuyruk’s documentation. This documentation covers the usage of the
 library and gives information about running workers.
 
+.. image:: minko.png
+   :height: 100px
+   :width: 200 px
+   :scale: 50 %
+   :alt: alternate text
+   :align: right
 
 About Kuyruk
 ------------
