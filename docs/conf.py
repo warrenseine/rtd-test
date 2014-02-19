@@ -41,15 +41,15 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Kuyruk'
-copyright = u'2013, Cenk Altı'
+project = u'RTD test'
+copyright = u'2014, Warren Seine'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.
 #
 # The short X.Y version.
-version = kuyruk.__version__
+version = "3.0-beta"
 # The full version, including alpha/beta/rc tags.
 release = version
 
@@ -121,7 +121,7 @@ html_logo = '_static/kuyruk-logo.png'
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
-html_favicon = '../kuyruk/manager/static/favicon.ico'
+# html_favicon = '../kuyruk/manager/static/favicon.ico'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -170,7 +170,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Kuyrukdoc'
+# htmlhelp_basename = 'Kuyrukdoc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
